@@ -1,5 +1,5 @@
 @import
-url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap&#39;);
+url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 :root{
 --branco: white;
 --cor-de-fundo: #00162E;
@@ -113,7 +113,7 @@ background-color: #faf408;
 width: 100%;
 background-color: #00ff85;
 }
-/*deixa a legende fraca, média, forte em linha*/
+/*deixa a legenda fraca, média, forte em linha*/
 .parametro-senha-textos{
 display: flex;
 justify-content: space-between;
